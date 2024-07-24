@@ -6,7 +6,7 @@ A simple and elegant stopwatch application built using HTML, CSS, and JavaScript
 - Responsive design
 - Easy-to-read timer display
 
-<a href="https://arnabyeager.github.io/foodie_E-commerce-site/](https://arnabyeager.github.io/MyStopwatch"><strong>➥ Live Demo</strong></a>
+<a href="https://arnabyeager.github.io/MyStopwatch"><strong>➥ Live Demo</strong></a>
 
 ## Getting Started
 
